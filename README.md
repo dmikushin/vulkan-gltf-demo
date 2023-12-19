@@ -1,10 +1,12 @@
-# Vulkan-glTF-viewer-trial
+# Vulkan glTF demo
+
+View glTF model in Vulkan,.
 
 Currently the source code is based on [Vulkan Tutorial](https://vulkan-tutorial.com/).
 
 ## Screenshot
 
-![Screenshot](https://github.com/takahirox/Vulkan-glTF-viewer-trial/blob/master/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Dependencies
 
